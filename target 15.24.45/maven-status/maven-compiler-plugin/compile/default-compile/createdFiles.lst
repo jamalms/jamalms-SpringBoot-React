@@ -1,0 +1,6 @@
+com/jamalms/studentsystem/StudentsystemApplication.class
+com/jamalms/studentsystem/controller/StudentController.class
+com/jamalms/studentsystem/repository/StudentRepository.class
+com/jamalms/studentsystem/model/Student.class
+com/jamalms/studentsystem/service/StudentServiceImp.class
+com/jamalms/studentsystem/service/StudentService.class
